@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name local)(type Legacy)(uri ${KIPRJMOD}/local.lib)(options "")(descr ""))
   (lib (name solar-buck-rescue)(type Legacy)(uri ${KIPRJMOD}/solar-buck-rescue.lib)(options "")(descr ""))
+  (lib (name NUCLEO-F401RE)(type Legacy)(uri ${KIPRJMOD}/NUCLEO-F401RE.lib)(options "")(descr ""))
 )
